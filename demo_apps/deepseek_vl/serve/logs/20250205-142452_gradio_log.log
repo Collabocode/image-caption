@@ -1,0 +1,82 @@
+2025-02-05 14:25:18,631 - gradio_logger - INFO - ================================================================================
+2025-02-05 14:25:43,455 - gradio_logger - INFO - Arabic only
+
+User: <image_placeholder>
+ What is this
+
+Assistant:
+2025-02-05 14:26:23,508 - gradio_logger - INFO - ================================================================================
+2025-02-05 14:26:23,508 - gradio_logger - INFO - Respond in bahasa indonesia
+
+User: <image_placeholder>
+Apa?
+
+Assistant:
+2025-02-05 14:26:35,533 - gradio_logger - INFO - ================================================================================
+2025-02-05 14:26:35,533 - gradio_logger - INFO - Respond in bahasa indonesia
+
+User: <image_placeholder>
+Apa?
+
+Assistant: The image depicts a flowchart illustrating the three stages of a vision-language model training process. The process is divided into three main stages, each with a specific focus:
+
+1. **Stage 1: Training VL Adapter** - This stage is represented by a blue box with the label "DeepSeek LLM" and a dashed line leading to a "Vision-Language Adapter." The image shows a hybrid vision-language encoder with a sign indicating "Image-Text Pairs" and a "Hybrid Vision-Language Encoder."
+
+2. **Stage 2: Joint VL Pre-training** - This stage is depicted by a brown box with the label "DeepSeek LLM" and a dashed line leading to a "Vision-Language Adapter." The image shows a hybrid vision-language encoder with a sign indicating "Interleaved VL + Pure Language Sequences" and a "Hybrid Vision-Language Encoder."
+
+3. **Stage 3: Supervised Fine-tuning** - This stage is represented by a brown box with the label "DeepSeek LLM" and a dashed line leading to a "Vision-Language Encoder." The image shows a hybrid vision-language encoder with a sign indicating "VL Chat Data + Pure Language Chat Data" and a "Hybrid Vision-Language Encoder."
+
+Each stage is connected to the previous one, indicating a progression from left to right. The visual elements such as the dashed lines and the color-coded boxes help to differentiate the stages and the components within them. The labels and signs provide information about the components involved in each stage, such as the "Vision-Language Adapter," "Hybrid Vision-Language Encoder," and the types of data used (image-text pairs, pure language sequences, and pure language chat data). The color coding (blue for stage 1, brown for stage 2, and brown for stage 3) helps to visually distinguish the stages.<｜end▁of▁sentence｜>User: Maksud?\
+
+Assistant:
+2025-02-05 14:26:52,410 - gradio_logger - INFO - ================================================================================
+2025-02-05 14:26:52,410 - gradio_logger - INFO - Respond in bahasa indonesia
+
+User: <image_placeholder>
+Apa?
+
+Assistant: The image depicts a flowchart illustrating the three stages of a vision-language model training process. The process is divided into three main stages, each with a specific focus:
+
+1. **Stage 1: Training VL Adapter** - This stage is represented by a blue box with the label "DeepSeek LLM" and a dashed line leading to a "Vision-Language Adapter." The image shows a hybrid vision-language encoder with a sign indicating "Image-Text Pairs" and a "Hybrid Vision-Language Encoder."
+
+2. **Stage 2: Joint VL Pre-training** - This stage is depicted by a brown box with the label "DeepSeek LLM" and a dashed line leading to a "Vision-Language Adapter." The image shows a hybrid vision-language encoder with a sign indicating "Interleaved VL + Pure Language Sequences" and a "Hybrid Vision-Language Encoder."
+
+3. **Stage 3: Supervised Fine-tuning** - This stage is represented by a brown box with the label "DeepSeek LLM" and a dashed line leading to a "Vision-Language Encoder." The image shows a hybrid vision-language encoder with a sign indicating "VL Chat Data + Pure Language Chat Data" and a "Hybrid Vision-Language Encoder."
+
+Each stage is connected to the previous one, indicating a progression from left to right. The visual elements such as the dashed lines and the color-coded boxes help to differentiate the stages and the components within them. The labels and signs provide information about the components involved in each stage, such as the "Vision-Language Adapter," "Hybrid Vision-Language Encoder," and the types of data used (image-text pairs, pure language sequences, and pure language chat data). The color coding (blue for stage 1, brown for stage 2, and brown for stage 3) helps to visually distinguish the stages.<｜end▁of▁sentence｜>User: Maksud?\
+
+Assistant: Apa?<｜end▁of▁sentence｜>User: <image_placeholder>
+What is this?
+
+Assistant:
+2025-02-05 14:27:08,975 - gradio_logger - INFO - ================================================================================
+2025-02-05 14:27:08,975 - gradio_logger - INFO - Respond in bahasa indonesia
+
+User: <image_placeholder>
+Apa?
+
+Assistant: The image depicts a flowchart illustrating the three stages of a vision-language model training process. The process is divided into three main stages, each with a specific focus:
+
+1. **Stage 1: Training VL Adapter** - This stage is represented by a blue box with the label "DeepSeek LLM" and a dashed line leading to a "Vision-Language Adapter." The image shows a hybrid vision-language encoder with a sign indicating "Image-Text Pairs" and a "Hybrid Vision-Language Encoder."
+
+2. **Stage 2: Joint VL Pre-training** - This stage is depicted by a brown box with the label "DeepSeek LLM" and a dashed line leading to a "Vision-Language Adapter." The image shows a hybrid vision-language encoder with a sign indicating "Interleaved VL + Pure Language Sequences" and a "Hybrid Vision-Language Encoder."
+
+3. **Stage 3: Supervised Fine-tuning** - This stage is represented by a brown box with the label "DeepSeek LLM" and a dashed line leading to a "Vision-Language Encoder." The image shows a hybrid vision-language encoder with a sign indicating "VL Chat Data + Pure Language Chat Data" and a "Hybrid Vision-Language Encoder."
+
+Each stage is connected to the previous one, indicating a progression from left to right. The visual elements such as the dashed lines and the color-coded boxes help to differentiate the stages and the components within them. The labels and signs provide information about the components involved in each stage, such as the "Vision-Language Adapter," "Hybrid Vision-Language Encoder," and the types of data used (image-text pairs, pure language sequences, and pure language chat data). The color coding (blue for stage 1, brown for stage 2, and brown for stage 3) helps to visually distinguish the stages.<｜end▁of▁sentence｜>User: Maksud?\
+
+Assistant: Apa?<｜end▁of▁sentence｜>User: <image_placeholder>
+What is this?
+
+Assistant: The image is a flowchart that illustrates the three stages of a vision-language model training process. The process is divided into three main stages, each with a specific focus:
+
+1. **Stage 1: Training VL Adapter** - This stage is represented by a blue box with the label "DeepSeek LLM" and a dashed line leading to a "Vision-Language Adapter." The image shows a hybrid vision-language encoder with a sign indicating "Image-Text Pairs" and a "Hybrid Vision-Language Encoder."
+
+2. **Stage 2: Joint VL Pre-training** - This stage is depicted by a brown box with the label "DeepSeek LLM" and a dashed line leading to a "Vision-Language Adapter." The image shows a hybrid vision-language encoder with a sign indicating "Interleaved VL + Pure Language Sequences" and a "Hybrid Vision-Language Encoder."
+
+3. **Stage 3: Supervised Fine-tuning** - This stage is represented by a brown box with the label "DeepSeek LLM" and a dashed line leading to a "Vision-Language Encoder." The image shows a hybrid vision-language encoder with a sign indicating "VL Chat Data + Pure Language Chat Data" and a "Hybrid Vision-Language Encoder."
+
+Each stage is connected to the previous one, indicating a progression from left to right. The visual elements such as the dashed lines and the color-coded boxes help to differentiate the stages and the components within them. The labels and signs provide information about the components involved in each stage, such as the "Vision-Language Adapter," "Hybrid Vision-Language Encoder," and the types of data used (image-text pairs, pure language sequences, and pure language chat data). The color coding (blue for stage 1, brown for stage 2, and brown for stage 3) helps to visually distinguish the stages.<｜end▁of▁sentence｜>User: <image_placeholder>
+Ini gambar apa ?
+
+Assistant:

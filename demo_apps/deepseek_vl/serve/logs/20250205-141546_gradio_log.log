@@ -1,0 +1,54 @@
+2025-02-05 14:16:21,658 - gradio_logger - INFO - ================================================================================
+2025-02-05 14:16:21,658 - gradio_logger - INFO - You are a helpful language and vision assistant. You are able to understand the visual content that the user provides, and assist the user with a variety of tasks using natural language.
+
+User: <image_placeholder>
+What is this?
+
+Assistant:
+2025-02-05 14:17:10,653 - gradio_logger - INFO - ================================================================================
+2025-02-05 14:17:10,653 - gradio_logger - INFO - Always respond in arabic
+
+User: <image_placeholder>
+What is this?
+
+Assistant: The image depicts a flowchart illustrating the three stages of training and fine-tuning a vision-language model, specifically using DeepSeek LLM (Large Language Model). The process is divided into three main sections: Stage 1 - Training VL Adapter, Stage 2 - Joint VL Pre-training, and Stage 3 - Supervised Fine-tuning.
+
+In Stage 1, we see that an Image-Text Pair is input to the Vision-Language Adapter, which then feeds into the Hybrid Vision Encoder. This stage involves training the adapter on image-text pairs.
+
+Stage 2 transitions from the hybrid vision encoder to the joint VL pre-training phase. Here, the output from the previous stage is used as input for the Vision-Language Adapter, which now receives input from both the Hybrid Vision Encoder and the Sign Language Encoder. This suggests a more integrated approach where multiple modalities are considered during pre-training.
+
+Finally, in Stage 3, the supervised fine-tuning takes place. The output from the joint VL pre-training phase is fed into the Hybrid Vision Decoder, which generates text. This stage uses pure language sequences for fine-tuning, indicating that the model has been trained on various types of data to improve its performance.
+
+Throughout all stages, the use of "SignL" indicates some form of sign language processing or integration, suggesting that this model may be designed to handle multimodal inputs including visual information and sign language data. The color coding with blue, orange, and brown boxes helps differentiate between the different components involved at each stage.<｜end▁of▁sentence｜>User: <image_placeholder>
+Again
+
+Assistant:
+2025-02-05 14:17:26,881 - gradio_logger - INFO - ================================================================================
+2025-02-05 14:17:26,881 - gradio_logger - INFO - Always respond in arabic
+
+User: <image_placeholder>
+What is this?
+
+Assistant: The image depicts a flowchart illustrating the three stages of training and fine-tuning a vision-language model, specifically using DeepSeek LLM (Large Language Model). The process is divided into three main sections: Stage 1 - Training VL Adapter, Stage 2 - Joint VL Pre-training, and Stage 3 - Supervised Fine-tuning.
+
+In Stage 1, we see that an Image-Text Pair is input to the Vision-Language Adapter, which then feeds into the Hybrid Vision Encoder. This stage involves training the adapter on image-text pairs.
+
+Stage 2 transitions from the hybrid vision encoder to the joint VL pre-training phase. Here, the output from the previous stage is used as input for the Vision-Language Adapter, which now receives input from both the Hybrid Vision Encoder and the Sign Language Encoder. This suggests a more integrated approach where multiple modalities are considered during pre-training.
+
+Finally, in Stage 3, the supervised fine-tuning takes place. The output from the joint VL pre-training phase is fed into the Hybrid Vision Decoder, which generates text. This stage uses pure language sequences for fine-tuning, indicating that the model has been trained on various types of data to improve its performance.
+
+Throughout all stages, the use of "SignL" indicates some form of sign language processing or integration, suggesting that this model may be designed to handle multimodal inputs including visual information and sign language data. The color coding with blue, orange, and brown boxes helps differentiate between the different components involved at each stage.<｜end▁of▁sentence｜>User: <image_placeholder>
+Again
+
+Assistant: The image depicts a flowchart illustrating the three stages of training and fine-tuning a vision-language model, specifically using DeepSeek LLM (Large Language Model). The process is divided into three main sections: Stage 1 - Training VL Adapter, Stage 2 - Joint VL Pre-training, and Stage 3 - Supervised Fine-tuning.
+
+In Stage 1, we see that an Image-Text Pair is input to the Vision-Language Adapter, which then feeds into the Hybrid Vision Encoder. This stage involves training the adapter on image-text pairs.
+
+Stage 2 transitions from the hybrid vision encoder to the joint VL pre-training phase. Here, the output from the previous stage is used as input for the Vision-Language Adapter, which now receives input from both the Hybrid Vision Encoder and the Sign Language Encoder. This suggests a more integrated approach where multiple modalities are considered during pre-training.
+
+Finally, in Stage 3, the supervised fine-tuning takes place. The output from the joint VL pre-training phase is fed into the Hybrid Vision Decoder, which generates text. This stage uses pure language sequences for fine-tuning, indicating that the model has been trained on various types of data to improve its performance.
+
+Throughout all stages, the use of "SignL" indicates some form of sign language processing or integration, suggesting that this model may be designed to handle multimodal inputs including visual information and sign language data. The color coding with blue, orange, and brown boxes helps differentiate between the different components involved at each stage.<｜end▁of▁sentence｜>User: <image_placeholder>
+What?
+
+Assistant:
